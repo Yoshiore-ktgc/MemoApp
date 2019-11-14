@@ -1,0 +1,39 @@
+.Form-main {
+    text-align:left;
+}
+
+.Form-main span{
+    margin:0 50px 0 20px ;
+
+}
+
+.Form-contents {
+    text-align: center;
+    position: relative;
+}
+
+.h2 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.input {
+    margin-bottom: 10px;
+    height:20px;
+    right:0px;
+}
+
+.event {
+    height:20px;
+    /* width: 50px; */
+    margin-right: 25px;
+    /* position: absolute; */
+    
+}
+
+.button {
+     width: 50px;
+     height:30px;
+     right:30px;
+}
+
